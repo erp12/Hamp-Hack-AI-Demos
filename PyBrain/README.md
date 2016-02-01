@@ -1,4 +1,4 @@
-# What is Accord Framework
+# What is PyBrain
 foo
 
 # Basic Usage
