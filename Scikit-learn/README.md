@@ -1,4 +1,4 @@
-# What is Accord Framework
+# What is Scikit-learn
 foo
 
 # Basic Usage
